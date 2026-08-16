@@ -89,8 +89,7 @@ return (9.0 / 5) * celsius + 32;
 ## Compile, Run, and Test
 
 ```bash
-bash tools/run_lab.sh lab07          # 24 official checks
-python3 tools/comment_check.py labs/lab07
+
 ```
 
 ---
